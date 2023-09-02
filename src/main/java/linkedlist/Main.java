@@ -12,7 +12,7 @@ public class Main {
         //                              Singly Linked List
         //                 Node                  Node                  Node
         //            [data | address]  ->  [data | address]  ->  [data | address]
-        
+
         //                                 Doubly Linked List
         //                       Node                               Node
         //            [address | data | address]  < ->   [address | data | address]

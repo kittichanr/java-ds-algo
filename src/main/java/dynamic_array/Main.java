@@ -1,7 +1,5 @@
 package dynamic_array;
 
-import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
         DynamicArray dynamicArray = new DynamicArray(5);
